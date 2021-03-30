@@ -1,0 +1,103 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Junru Liu
+
+~~~
+{}{img_left}{img/me.jpg}{photo}{131}{160}{}
+3rd year undergraduate student in Computer Science,\n [https://www.xjtlu.edu.cn/en/study/departments/academic-departments/intelligent-science/ Department of Intelligent Science], \n[https://www.xjtlu.edu.cn/en/ Xi'an Jiaotong-Liverpool University (XJTLU)]\n\n
+Email: [Junru.Liu18@student.xjtlu.edu.cn]\n
+LinkedIn: [https://www.linkedin.com/in/junru-liu-3172581a9/ linkedin.com\/in\/junru-liu]\n
+Github: [https://github.com/Leonora-cat github.com/Leonora-cat]
+~~~
+
+== About me
+I am a 3rd year undergraduate student from Xi'an Jiaotong-Liverpool University, majoring in Information and Computing Science (it is a confusing major name because what we learn is actually Computer Science), Department of Intelligent Science, School of Advanced Technology.\n
+- Rank: 1 / 290
+- Overall GPA: 3.99 / 4.0
+- Major GPA: 4.0 / 4.0
+
+== Research Interest
+My research interests include 
+- Machine Learning and Deep Learning  
+- Natural Language Processing
+- Data Mining
+
+== Research Experience
+*Research Assistant*\n
+/Knowledge and Wisdom Lab at Xi'an Jiaotong-Liverpool University/\n
+October 2020 - present\n
+
+We are developing an intelligent policy management system which provides services such as policy queries and policy analysis. We work on this project in collaboration with China Telecom, Beijing.\n
+
+- Developed the backend of an intelligent policy management system using Python
+- Realized the inverted index based on whoosh for policy searching with data stored in MongoDB
+- Extracted keywords of policy documents and used word cloud to visualize the results
+- Extracted the topics of policy documents using LDA model
+- Currently working on the relation extraction in policy documents using GCN
+
+== Work Experience
+*NLP engineer Intern*\n
+/Shanghai Ideal Information Industry(Group) Co.,Ltd/\n
+June 2020 – September 2020\n
+
+During this internship, I worked in the center of research and developement at IDEAL, which was repsonsible for the 12345 hotline service in Shanghai. I explored some traditional techniques to complete some NLP tasks and provided analysis of ticket data.\n
+
+- Classified tickets into predefined scenes using text similarity techniques
+- Developed a web page for question and answering using text similarity techniques
+- Developed a web page for keyword extraction offering 3 methods: TF-IDF, word2vec and chi squared test
+- Explored Named Entity Recognition tasks using CRF and BERT-MRC \n\n
+
+*Frontend Developer Intern*\n
+/Emerson Electric (China) Holdings Co., Ltd./\n
+July 2020 – September 2020\n
+
+During this internship, I led a team to develop a Wechar mini program for Emerson to collect feedback from its customers and manage database. I mainly focuses on the frontend development and project management.\n
+
+- Developed the frontend of a Wechat mini program using Wechat Devtools
+- Assigned work to members and led the team to work on the project following the schedule
+
+== Projects
+*Multi-class Sentiment Analysis*\n
+/Self-learning Project/\n
+February 2021\n
+
+During this project, I developed a CNN model to classify questions into 6 categories.\n
+
+- Practiced sentiment analysis
+- Learned PyTorch\n\n
+
+*File Synchronization*\n
+/University Coursework/\n
+October 2020 – December 2020\n
+
+During this coursework, I developed a file synchronization program for large efficient file transfer among different nodes. This project achieves the functions of synchronization of new and updated files, and the resumption of transfer from interruption. Each node runs with the same codes.\n
+
+- Developed a file transfer program using Python based TCP socket programming
+- Enabled the same behavior of nodes and simultaneous transfer among them using multithreading and multiprocessing\n\n
+
+*MNIST Handwritten Digit Classification*\n
+/MOOC Coursework/\n
+December 2019\n
+
+During this coursework, I Developed a CNN model to predict handwritten digits 0-9 on MNIST dataset.\n
+
+- Learned some basics of Machine Learning
+- Practiced Tensorflow 1.x 
+
+== Skills
+- Python, Java, C, C\++, HTML\/CSS/\JavaScript, SQL, MongoDB
+- Tensorflow, PyTorch
+- Linux, PyMongo, Pandas, NumPy, Matplotlib, Plotly, Request, Flask, OpenCV
+
+
+== Courses
+- At University:\n
+/Calculus \/ Linear Algebra \/ Discrete Mathematics and Statistics \/ Java \/ Database \/ Data Structures \/ Computer Systems \/ Operating Systems Concepts \/ Algorithm \/ Computer Networking \/ Software Engineering \/ Decision Computation and Language(Automaton)/
+- Self Learning:\n
+/Python \/ C \/ C\++ \/ Probability and Statistics \/ Tensorflow \/ Pytorch/ 
+
+== Languages
+- Chinese: natively fluent
+- Engligh: language of instruction at university\n ~~~~~~~~~~~~~~~~CEFR C1\n     ~~~~~~~~~~~~~~~~107 / 120 in College Entrance Exam in Jiangsu 2018
+- Spanish: CEFR A2
+
+[CV.pdf A brief CV].
