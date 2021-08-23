@@ -8,26 +8,36 @@ Email: [Junru.Liu18@student.xjtlu.edu.cn]\n
 LinkedIn: [https://www.linkedin.com/in/junru-liu-3172581a9/ linkedin.com\/in\/junru-liu]\n
 Github: [https://github.com/Leonora-cat github.com/Leonora-cat]\n\n
 [CV.pdf CV]\n
-[Academic_Records.pdf Current Academic Records]
+[XJTLU_Academic_Transcript.pdf Current Academic Records at XJTLU]\n
+[UoL_Interim_Transcript.pdf Interim Academic Records at UoL]
 ~~~
 
 == About me
-I am a 3rd year undergraduate student from Xi'an Jiaotong-Liverpool University, majoring in Information and Computing Science, Department of Intelligent Science, School of Advanced Technology.\n
-- Major: Information and Computing Science(it is a confusing major name because what we learn is actually Computer Science)
-- Rank: 1 / 290
+I am an incoming 4th year undergraduate student from Xi'an Jiaotong-Liverpool University, majoring in Information and Computing Science, Department of Intelligent Science, School of Advanced Technology.\n
+- Major: Information and Computing Science(It is a confusing major name because what we learn is actually Computer Science)
+- Rank: Year 1: 1 \/ 173, Year 2: 1 \/ 430, Year 3: 5 \/ 290 (formal number of total candidates in Year 3 will be released in this September)
 - Overall GPA: 3.99 / 4.0
 - Major GPA: 4.0 / 4.0
 
 == Research Interest
 My research interests include 
-- Machine Learning and Deep Learning  
-- Natural Language Processing
+- Natural Language Processing  
+- Machine Learning and Deep Learning
 - Data Mining
 
 == Research Experience
+*Summer Interniship*\n
+/Pennsylvania State University/\n
+April 2021 - Present\n
+
+We are working on the project of multilingual semantic parsing, which involves turning sentences in multiple natural languages to logical forms, such as, SQL, Prolog, and Funql.\n
+
+- Processed the data for the seq2seqPtr model on multilingual semantic parsing
+- Currently running the OpenNMT model on different datasets for baseline multilingual semantic parsing \n\n
+
 *Research Assistant*\n
 /Knowledge and Wisdom Lab at Xi'an Jiaotong-Liverpool University/\n
-October 2020 - present\n
+October 2020 - Present\n
 
 We are developing an intelligent policy management system which provides services such as policy queries and policy analysis. We work on this project in collaboration with China Telecom, Beijing.\n
 
@@ -35,10 +45,10 @@ We are developing an intelligent policy management system which provides service
 - Realized the inverted index based on whoosh for policy searching with data stored in MongoDB
 - Extracted keywords of policy documents and used word cloud to visualize the results
 - Extracted the topics of policy documents using LDA model
-- Currently working on the relation extraction in policy documents using GCN
+- Currently working on the relation extraction using GCN
 
 == Work Experience
-*NLP engineer Intern*\n
+*NLP Engineer Internship*\n
 /Shanghai Ideal Information Industry(Group) Co.,Ltd/\n
 June 2020 – September 2020\n
 
@@ -49,7 +59,7 @@ During this internship, I worked in the center of research and developement at I
 - Developed a web page for keyword extraction offering 3 methods: TF-IDF, word2vec and chi squared test
 - Explored Named Entity Recognition tasks using CRF and BERT-MRC \n\n
 
-*Frontend Developer Intern*\n
+*Frontend Developer Internship*\n
 /Emerson Electric (China) Holdings Co., Ltd./\n
 July 2020 – September 2020\n
 
@@ -59,6 +69,16 @@ During this internship, I led a team to develop a Wechar mini program for Emerso
 - Assigned work to members and led the team to work on the project following the schedule
 
 == Projects
+*Second-hand Item Information Exchange Platform*\n
+/University Coursework/\n
+Spetember 2021 – December 2021\n
+
+During this coursework, we developed an information exchange platform for second-hand items at XJTLU based on Spring Boot and Vue in Scrum process.\n
+
+- Led the team to complete the project with separated frontend and backend in the Scrum process\n
+- Developed the backend of modules: User Registration, User Information Display, and Product Display\n
+- Tested some modules using JUnit\n\n
+
 *Multi-class Sentiment Analysis*\n
 /Self-learning Project/\n
 February 2021\n
@@ -88,7 +108,7 @@ During this coursework, I Developed a CNN model to predict handwritten digits 0-
 
 == Skills
 - Python, Java, C, C\++, HTML\/CSS/\JavaScript, SQL, MongoDB
-- Tensorflow, PyTorch
+- PyTorch, Tensorflow
 - Linux, PyMongo, Pandas, NumPy, Matplotlib, Plotly, Request, Flask, OpenCV
 
 
@@ -96,10 +116,10 @@ During this coursework, I Developed a CNN model to predict handwritten digits 0-
 - At University:\n
 /Calculus \/ Linear Algebra \/ Discrete Mathematics and Statistics \/ Java \/ Database \/ Data Structures \/ Computer Systems \/ Operating Systems Concepts \/ Algorithm \/ Computer Networking \/ Software Engineering \/ Decision Computation and Language(Automaton)/
 - Self Learning:\n
-/Python \/ C \/ C\++ \/ Probability and Statistics \/ Tensorflow \/ Pytorch/ 
+Python \/ C \/ C\++ \/ Probability and Statistics \/ Tensorflow \/ Pytorch \/ CS224n (ongoing)
 
 == Languages
 - Chinese: natively fluent
-- Engligh: language of instruction at university\n ~~~~~~~~~~~~~~~~CEFR C1\n     ~~~~~~~~~~~~~~~~107 / 120 in College Entrance Exam in Jiangsu 2018
+- Engligh: language of instruction at university\n ~~~~~~~~~~~~~~~~CEFR C1\n     ~~~~~~~~~~~~~~~~TOEFL 109\n     ~~~~~~~~~~~~~~~~GRE 325+3\n
 - Spanish: CEFR A2
 
